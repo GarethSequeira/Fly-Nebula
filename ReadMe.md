@@ -1,8 +1,8 @@
 # Fly Nebula
 #### Is a Dynamic Website built on the basis of an Airline Reservation System.  
-![GitHub repo size](https://img.shields.io/github/repo-size/GarethSequeira/Fly-Nebula?color=#BA55D3&label=Repository%20Size) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GarethSequeira/Fly-Nebula?&label=Repository%20Stars&style=social) 
-![GitHub](https://img.shields.io/github/license/GarethSequeira/Fly-Nebula?color=#7FFF00&label=License)  
+![GitHub repo size](https://img.shields.io/github/repo-size/GarethSequeira/Fly-Nebula?color=%23BA55D3&label=Repository%20Size%20)
+![GitHub Repo stars](https://img.shields.io/github/stars/GarethSequeira/Fly-Nebula?label=Repository%20Stars&logoColor=%23600080&style=social) 
+![GitHub](https://img.shields.io/github/license/GarethSequeira/Fly-Nebula?color=%237FFF00&label=License%20)  
 <br>  
 <img align="right" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/plane.gif" width="350" height="350">
 
@@ -59,11 +59,11 @@ This project has huge potential to improve and grow.
 
 
 ## 🔹Overview  
-Admin Page:  
-<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OAdmin.gif" alt="OAdmin" width="720" height="360">  
+#### Admin Page:  
+<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OAdmin.gif" alt="OAdmin" width="560" height="315">  
   
-Registration Page:  
-<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/ORegistration.gif" alt="ORegistration" width="720" height="360">  
+#### Registration Page:  
+<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/ORegistration.gif" alt="ORegistration" width="560" height="315">  
   
-Homepage and Booking:  
-<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OHome.gif" alt="OHome" width="720" height="360">  
+#### Homepage and Booking:  
+<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OHome.gif" alt="OHome" width="560" height="315">  
