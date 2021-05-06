@@ -1,0 +1,68 @@
+.jumbotron {
+	padding-top: 60px;
+	font-family:segoe script;
+	background-color: #9d34ffd5;
+	color: #ffffff;
+}
+/* Add a dark blue background color with a little bit see-through */ 
+.navbar {
+	margin-bottom: 0;
+	background-color: #deadfa;
+	border: 0;
+	font-size: 18px !important;
+	letter-spacing: 2px;
+	opacity: 0.9;
+}
+/* Add light blue color to all navbar links */
+.navbar li a, .navbar .navbar-brand {
+	color: #9d34ff !important;
+}
+/* On hover, the links will turn white */
+.navbar-nav li a:hover, .navbar-nav li.active a {
+	color: #b86dff !important;
+	background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: transparent;
+	color: #fff !important;
+}
+
+body{
+    background-image: url('assets/background.gif');
+    background-repeat: no-repeat;
+	background-position: center center;
+	/*background-attachment: fixed;*/
+	background-size: cover;
+}
+
+.container{
+    opacity: 0.9;
+}
+
+/* Add a dark background color to the footer */
+footer {
+    background-color: #9d34ffd5;
+    color: #fff;
+    padding: 32px;
+	font-family:segoe script;
+	font-size: 18px;
+	
+}
+
+footer .glyphicon {
+	font-size: 20px;
+	margin-bottom: 20px;
+	color: #b86dff;
+	opacity: 0.9;
+}
+
+#paymentsuccessful{
+	width: 400px;
+	height: 400px;
+	border-radius: 400px;
+}
+
+#total{
+	background-color: yellow;
+} 
