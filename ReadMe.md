@@ -60,10 +60,10 @@ This project has huge potential to improve and grow.
 
 ## 🔹Overview  
 #### Admin Page:  
-<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OAdmin.gif" alt="OAdmin" width="560" height="315">  
-  
+<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OAdmin.gif" alt="OAdmin" width="560" height="315"> <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>  
 #### Registration Page:  
-<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/ORegistration.gif" alt="ORegistration" width="560" height="315">  
-  
+<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/ORegistration.gif" alt="ORegistration" width="560" height="315"> <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>  
 #### Homepage and Booking:  
-<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OHome.gif" alt="OHome" width="560" height="315">  
+<img align="left" src="https://github.com/GarethSequeira/Fly-Nebula/blob/main/Fly%20Nebula/assets/OHome.gif" alt="OHome" width="560" height="315"> <br>
